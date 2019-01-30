@@ -11,8 +11,8 @@ spring:
   session:
     store-type: redis
   redis:
-    host: localhost
-    port: 6380
+    host: 10.194.80.12
+    port: 6379
 logging:
   level: debug
 merryyou:
